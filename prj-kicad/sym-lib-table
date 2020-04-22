@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pmod-mdb)(type Legacy)(uri /home/gwen/Agilack/Projects/pmod-mdb/prj-kicad/pmod-mdb.lib)(options "")(descr ""))
+)
